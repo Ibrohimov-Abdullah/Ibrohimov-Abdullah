@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, Dart**
 
-- 📫 How to reach me **noname.offical2008.05@gmail.com**
+- 📫 How to reach me **abdullahibrokhimovofficial@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Ibrohimov-Abdullah](https://github.com/Ibrohimov-Abdullah)
 
